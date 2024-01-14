@@ -18,6 +18,8 @@ public class Usuario {
 	
 	private String password;
 	
+	private String password2;
+	
 	public Usuario() {
 		
 	}
